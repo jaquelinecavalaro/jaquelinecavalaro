@@ -12,17 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Bem vindos(a) 👋
 
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinecavalaro&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jaquelinecavalaro&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>  
 
 ### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 

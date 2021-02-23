@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
+### Olá! Boas vindas :) <img src="https://media.giphy.com/media/GLrO8AJ71g6dqDs02R/giphy.gif" width="30px">
 
 ---
 <a href="https://ibb.co/SPRttsN"><img src="https://i.ibb.co/XbS772X/Amo-criar-e-me-desenvolver-em-grupo.gif" alt="Amo-criar-e-me-desenvolver-em-grupo" border="0"></a>

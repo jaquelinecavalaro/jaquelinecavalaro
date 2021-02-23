@@ -53,6 +53,6 @@ Here are some ideas to get you started:
           fill="#fffefe"
           stroke-opacity="1"
         />
-<p><a href="https://github.com/jaquelinecavalaro/"><img src="https://camo.githubusercontent.com/3177ddc58a1cbbae3910887aadfa2863dae548ee5d35c2c9962b4c4215cfd982/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6e6963612d5269626569726f266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monica-Ribeiro&amp;layout=compact" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/jaquelinecavalaro/"><img src="https://camo.githubusercontent.com/3177ddc58a1cbbae3910887aadfa2863dae548ee5d35c2c9962b4c4215cfd982/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6e6963612d5269626569726f266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinecavalaro&amp;layout=compact" style="max-width:100%;"></a></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaquelinecavalaro)](https://github.com/jaquelinecavalaro?tab=repositories)

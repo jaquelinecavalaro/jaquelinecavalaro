@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 <a href="https://ibb.co/SPRttsN"><img src="https://media.giphy.com/media/GLrO8AJ71g6dqDs02R/giphy.gif" alt="Amo-criar-e-me-desenvolver-em-grupo" border="0"></a>
 
 Formada em Administração de Empresas pela faculdade ESAGS-FGV. 
-Atualmente mudando de carreira para uma futura Desenvolvedora Java Jr Full Stack.
+Desenvolvedora Java Jr Full Stack.
+Desenvolvedora Dart.
 
 Amo dançar :dancer:, estudar novas tecnologias :books:, cantar :microphone: e fazer cosplay nas horas vagas <br>
 Sou mãe de dois cachorrinhos, o Oscar e o Pitoco :dog2:  
 
 ---
 
-Atualmente estou realizando o Bootcamp da [Generation Brasil](https://brazil.generation.org/).  
+Atualmente estudando Flutter.  
 
 ---
 
